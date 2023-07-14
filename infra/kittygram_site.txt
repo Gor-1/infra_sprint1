@@ -1,0 +1,5 @@
+IP: 158.160.68.1;
+name_taski: https://gcodm.sytes.net;
+name_kittygram: https://gcodm-kittygram.sytes.net/;
+login: g;
+password: g;
